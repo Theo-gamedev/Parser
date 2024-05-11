@@ -1,0 +1,17 @@
+[Default]
+{
+PositionX:500
+PositionY:500
+PositionZ:0
+ScaleX:1
+ScaleY:2
+Origin:0
+Rotation:45
+ShaderType:1
+UseGlobalShader:true
+TexturePath:"Kobold_1.png"
+HasAnimation:true
+AnimNumberX:4
+AnimNumberY:1
+AnimTimer:0.5
+}
